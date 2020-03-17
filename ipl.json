@@ -1,7 +1,7 @@
 { "ipl":[
     {
       "team": "chennai",
-      "img": "asset/img/z1.png",
+      "img": "https://github.com/AshishTechIndia/myjson/blob/master/z1.PNG",
     "Batsman": [
       {
         "id": 111,
@@ -237,7 +237,7 @@
     },
     {
       "team": "kolkata",
-      "img": "asset/img/z2.png",
+      "img": "https://github.com/AshishTechIndia/myjson/blob/master/z2.PNG",
 
     "Batsman": [
       {
@@ -474,7 +474,7 @@
     },
     {
       "team": "mumbai",
-      "img": "asset/img/z3.png",
+      "img": "https://github.com/AshishTechIndia/myjson/blob/master/z3.PNG",
 
     "Batsman": [
       {
@@ -711,7 +711,7 @@
     },
     {
       "team": "delhi",
-      "img": "asset/img/z4.png",
+      "img": "https://github.com/AshishTechIndia/myjson/blob/master/z4.PNG",
 
     "Batsman": [
       {
@@ -947,7 +947,7 @@
     },
     {
       "team": "hydrabad",
-      "img": "asset/img/z5.png",
+      "img": "https://github.com/AshishTechIndia/myjson/blob/master/z5.PNG",
 
     "Batsman": [
       {
@@ -1184,7 +1184,7 @@
     },
     {
       "team": "rajastan",
-      "img": "asset/img/z6.png",
+      "img": "https://github.com/AshishTechIndia/myjson/blob/master/z6.PNG",
 
     "Batsman": [
       {
@@ -1421,7 +1421,7 @@
     },
     {
       "team": "bangalore",
-      "img": "asset/img/z7.png",
+      "img": "https://github.com/AshishTechIndia/myjson/blob/master/z7.PNG",
 
     "Batsman": [
       {
@@ -1658,7 +1658,7 @@
     },
     {
       "team": "punjab",
-      "img": "asset/img/z8.png",
+      "img": "https://github.com/AshishTechIndia/myjson/blob/master/z8.PNG",
 
     "Batsman": [
       {
